@@ -5,6 +5,8 @@ Imagine Sarah, a patient who books an appointment for an annual physical. From t
 
 Let’s walk through her journey to see how data flows seamlessly behind the scenes.
 
+![Data Flowchart](https://github.com/rajarapuraj/Overview-of-Data-Flow-in-Epic-Hyperspace-and-Databases/blob/main/Data%20Flowchart.jpeg?raw=true)
+
 ## Step 1: Registration and Scheduling
 Sarah’s Interaction: Sarah books her appointment using **MyChart**, the patient portal. She confirms her insurance details and selects a convenient time slot.
 ### What Happens Behind the Scenes:
