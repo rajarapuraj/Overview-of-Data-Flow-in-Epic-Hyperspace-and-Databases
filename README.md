@@ -66,5 +66,5 @@ Her device-generated data (like fitness tracker insights) could also contribute 
 From registration to reporting, Sarah’s journey showcases how Epic Hyperspace and its databases work together to provide a seamless experience. The system ensures real-time data availability for patient care, efficient billing, and actionable insights for clinicians and healthcare leaders. This interconnected ecosystem not only improves Sarah’s care but also empowers healthcare organizations to make data-driven decisions for better patient outcomes.
 
 ## Additional Resources
-![Epic System Modules](https://healthcareitskills.com/epic-systems-modules/)
-![Youtube](https://www.youtube.com/watch?v=hvaSE8DmYlw)
+[Epic System Modules](https://healthcareitskills.com/epic-systems-modules/)
+[Youtube](https://www.youtube.com/watch?v=hvaSE8DmYlw)
