@@ -67,4 +67,5 @@ From registration to reporting, Sarah’s journey showcases how Epic Hyperspace 
 
 ## Additional Resources
 [Epic System Modules](https://healthcareitskills.com/epic-systems-modules/)
+
 [Youtube](https://www.youtube.com/watch?v=hvaSE8DmYlw)
